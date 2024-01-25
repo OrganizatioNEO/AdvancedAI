@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/neo.kattan/Source/Repos/AdvancedAI/AI_Scenario_Gen/Content/BP_BlankTile.uasset",
+				"C:/Users/neo.kattan/Source/Repos/AdvancedAI/AI_Scenario_Gen/Content/Tiles.uasset",
+				"C:/Users/neo.kattan/Source/Repos/AdvancedAI/AI_Scenario_Gen/Content/BP_Grid.uasset",
 				"C:/Users/Neo/source/repos/AI_Scenario_Gen/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Neo/source/repos/AI_Scenario_Gen/Content/BP_BlankTile.uasset",
 				"C:/Users/Neo/source/repos/AI_Scenario_Gen/Content/NewMap_HLOD0_Instancing.uasset",
