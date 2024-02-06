@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Neo/Source/Repos/AdvancedAI/AI_Scenario_Gen/Content/BP_Grid.uasset",
+				"C:/Users/Neo/Source/Repos/AdvancedAI/AI_Scenario_Gen/Content/BP_BlankTile.uasset",
+				"C:/Users/Neo/Source/Repos/AdvancedAI/AI_Scenario_Gen/Content/__ExternalActors__/NewMap/3/4G/P41LU4GLFHT1N9XKKWJ8NS.uasset",
+				"C:/Users/Neo/Source/Repos/AdvancedAI/AI_Scenario_Gen/Content/__ExternalActors__/NewMap/D/V7/IFO37ZI6OYU8N0I7G7JLAU.uasset",
+				"C:/Users/Neo/Source/Repos/AdvancedAI/AI_Scenario_Gen/Content/BP_Tile2.uasset",
+				"C:/Users/Neo/Source/Repos/AdvancedAI/AI_Scenario_Gen/Content/BP_Tile3.uasset",
 				"C:/Users/neo.kattan/Source/Repos/AdvancedAI/AI_Scenario_Gen/Content/BP_BlankTile.uasset",
 				"C:/Users/neo.kattan/Source/Repos/AdvancedAI/AI_Scenario_Gen/Content/Tiles.uasset",
 				"C:/Users/neo.kattan/Source/Repos/AdvancedAI/AI_Scenario_Gen/Content/BP_Grid.uasset",
